@@ -1,0 +1,25 @@
+# CHIP-8 ROM files
+*.ch8
+*.CH8
+
+# Binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Go specific
+*.test
+*.out
+/bin/
+/vendor/
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
